@@ -42,3 +42,4 @@ Frame Flow is a front-end project that recreates the look and feel of an Instagr
 
 ### 🎬 Preview
 
+https://github.com/user-attachments/assets/cca4c558-b2ea-481e-8000-b2e22c7c0299
