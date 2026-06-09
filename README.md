@@ -42,14 +42,14 @@ frame-flow/
 
 ### 💡 What I Learned
 
-- How to use **Flexbox** more confidently — aligning items horizontally and vertically, and using `justify-content: space-between` to push elements to opposite sides
-- How to use `flex-direction: column` and `flex-direction: row` to control layout direction
-- How to use structure and nest **divs** correctly to build complex components without breaking the layout
-- How to use **HTML** special characters like `&#8249;`, `&#8250;` and `&#8943;` to add symbols without images
-- How to use **Font Awesome icons** to add professional UI elements like hearts, bookmarks and paper plane
-- How to use `position: absolute` and `position: relative` together to overlay elements on top of images
-- How to build a functional **JavaScript carousel** from scratch using `transform: translateX`
-- How to dynamically add and remove CSS classes with JavaScript to control active states
+- Got more comfortable using Flexbox to organize layouts and position elements exactly where I wanted them.
+- Learned how `flex-direction` changes the flow of a layout and when to use rows or columns.
+- Improved my understanding of structuring and nesting HTML elements to build more complex interfaces.
+- Discovered how to use HTML character entities to add symbols without relying on images.
+- Learned how to use Font Awesome icons to make the interface feel more polished and realistic.
+- Practiced combining `position: relative` and `position: absolute` to place elements on top of images.
+- Built a simple image carousel with JavaScript using `translateX` for smooth slide transitions.
+- Learned how to add and remove CSS classes dynamically to create interactive UI states.
 
 ---
 
