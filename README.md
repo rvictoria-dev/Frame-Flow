@@ -18,6 +18,28 @@ Frame Flow is a front-end project that recreates the look and feel of an Instagr
 
 ---
 
+### 📁 Project Structure
+
+```
+frame-flow/
+├── assets/
+├── index.html
+├── script.js
+├── styles.css
+└── README.md
+```
+
+---
+
+### 🛠️ Built With
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- [Font Awesome](https://fontawesome.com) &mdash; for UI icons
+
+---
+
 ### 💡 What I Learned
 
 - How to use **Flexbox** more confidently — aligning items horizontally and vertically, and using `justify-content: space-between` to push elements to opposite sides
@@ -28,15 +50,6 @@ Frame Flow is a front-end project that recreates the look and feel of an Instagr
 - How to use `position: absolute` and `position: relative` together to overlay elements on top of images
 - How to build a functional **JavaScript carousel** from scratch using `transform: translateX`
 - How to dynamically add and remove CSS classes with JavaScript to control active states
-
----
-
-### 🛠️ Built With
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- [Font Awesome](https://fontawesome.com) &mdash; for UI icons
 
 ---
 
